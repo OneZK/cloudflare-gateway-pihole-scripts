@@ -2,7 +2,7 @@ name: Update Filter Lists MLC
 
 on:
   schedule:
-    - cron: '30 22 * * Mon'
+    - cron: '0 13 * * Sat'
   workflow_dispatch:
 
 concurrency:
