@@ -1,4 +1,4 @@
-name: Update Filter Lists MLC
+name: Mlc Update Filter Lists
 
 on:
   schedule:
